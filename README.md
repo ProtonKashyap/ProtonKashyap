@@ -1,5 +1,5 @@
 ### Hola, I am Mohit Kumar 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitor Count](https://profile-counter.glitch.me/ProtonKashyap/count.svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
