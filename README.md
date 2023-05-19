@@ -21,7 +21,8 @@
 - 👁️   I'm a fresher and looking for internships for backend and frontend development
 - 💫   In my free time, I solve LeetCode/GFGs Problems and sometimes listen and sing songs
 - 🚀  I'm currently learning Django REST framework
-![ProfileViews](https://komarev.com/ghpvc/?username=ProtonKashyap)
+- 👀 ![ProfileViews](https://komarev.com/ghpvc/?username=ProtonKashyap)
+
 
 ---
 
