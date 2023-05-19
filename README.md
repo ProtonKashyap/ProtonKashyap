@@ -1,6 +1,6 @@
 ### Hola, I am Mohit Kumar 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProtonKashyap&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -51,6 +51,9 @@
 
 ### 🔥 My stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ProtonKashyap)](https://git.io/streak-stats)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProtonKashyap&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtonKashyap&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
