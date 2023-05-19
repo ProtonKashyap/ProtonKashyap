@@ -17,9 +17,9 @@
 ---
 
 ### 👨‍💻: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 👁️  I'm a fresher and looking for internships for backend and frontend development
-- 💫  In my free time, I solve LeetCode/GFGs Problems and sometimes listen and sing songs
-- 
+- 👁️   I'm a fresher and looking for internships for backend and frontend development
+- 💫   In my free time, I solve LeetCode/GFGs Problems and sometimes listen and sing songs
+- 🚀  I'm currently learning Django REST framework
 
 ---
 
