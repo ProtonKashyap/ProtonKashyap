@@ -9,7 +9,6 @@
 <h1>
   Hola, I am Mohit Kumar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  ![](https://komarev.com/ghpvc/?username=ProtonKashyap)
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
@@ -21,6 +20,7 @@
 - 👁️   I'm a fresher and looking for internships for backend and frontend development
 - 💫   In my free time, I solve LeetCode/GFGs Problems and sometimes listen and sing songs
 - 🚀  I'm currently learning Django REST framework
+- ![ProfileViews](https://komarev.com/ghpvc/?username=ProtonKashyap)
 
 ---
 
