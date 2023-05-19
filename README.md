@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/mohit-kumar-05352a245">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  
 </div>
 <h1>
-  Hola, I am Mohit Kumar
+  Hola, I am Mohit Kumar 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -20,7 +21,7 @@
 - 👁️   I'm a fresher and looking for internships for backend and frontend development
 - 💫   In my free time, I solve LeetCode/GFGs Problems and sometimes listen and sing songs
 - 🚀  I'm currently learning Django REST framework
-- ![ProfileViews](https://komarev.com/ghpvc/?username=ProtonKashyap)
+![ProfileViews](https://komarev.com/ghpvc/?username=ProtonKashyap)
 
 ---
 
